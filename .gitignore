@@ -1,0 +1,11 @@
+# Node modules folder
+node_modules/
+
+# Production build
+build/
+
+# Environment variables file
+.env
+
+# MacOS files
+.DS_Store
