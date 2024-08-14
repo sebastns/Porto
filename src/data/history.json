@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Bootcamp html,css,js",
+    "organisation": "(Codepolitan)",
+    "startDate": "Mei, 2024",
+    "endDate": "Juni, 2024",
+    "experiences": ["Pelatihan mulai dari dasar hingga pandai", "Sertifikat pelatihan html,css,js"],
+    "imageSrc": "history/codepolitan.png"
+  },
+  {
+    "role": "Bootcamp php,mysql,laravel",
+    "organisation": "(Codepolitan)",
+    "startDate": "Juni, 2024",
+    "endDate": "Juli, 2024",
+    "experiences": ["Pelatihan mulai dari dasar hingga pandai", "Sertifikat pelatihan php,mysql,laravel"],
+    "imageSrc": "history/codepolitan.png"
+  }
+]
